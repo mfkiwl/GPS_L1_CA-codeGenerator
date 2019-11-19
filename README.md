@@ -11,3 +11,7 @@ Here are a few notes for the script;
 7. I plot the NAV+C/A graph during one period of NAV signal to show the signal behavior while NAV data is 1 and 0. Most probably, you need to zoom in to analyse the signals, because vertical lines are so close each other.
 
 After I study on GPS/GNSS signals and general signal analysis topics well and feel ready to re-code this script or code a new script from the scratch, I will update this repo.
+
+To-Do for Me;
+
+1. Draw the FFT graph of PRN correlations(raw and modulated)
